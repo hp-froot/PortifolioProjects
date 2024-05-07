@@ -14,4 +14,10 @@ In my third project, I analyzed bike sales data using Excel. This project involv
 2. Pivot Table Creation: I created pivot tables to summarize and aggregate the data based on different dimensions such as commute, gender, and income.
 3. Visual Dashboard: Using the insights from the pivot tables, I designed a visual dashboard to present key findings and trends in an easily understandable format.
 
+## **Project 4: Airbnb Analysis in Barcelona Using Tableau**
+In my fourth project, I conducted an in-depth analysis of Airbnb data in Barcelona using Tableau. This project focused on identifying the most profitable factors influencing Airbnb listings, such as neighborhood, room type and pricing dynamics.
+
+Through interactive visualizations created in Tableau, I explored various dimensions of the data to uncover insights and trends. By analyzing factors I aimed to provide valuable insights for both hosts and potential guests in the Barcelona area.
+https://public.tableau.com/app/profile/hannah.pinho/viz/AirbnbBCNProject/Dashboard1?publish=yes
+
 Stay tuned for more exciting projects to come!
