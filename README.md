@@ -20,4 +20,7 @@ In my fourth project, I conducted an in-depth analysis of Airbnb data in Barcelo
 Through interactive visualizations created in Tableau, I explored various dimensions of the data to uncover insights and trends. By analyzing factors I aimed to provide valuable insights for both hosts and potential guests in the Barcelona area.
 https://public.tableau.com/app/profile/hannah.pinho/viz/AirbnbBCNProject/Dashboard1?publish=yes
 
+## **Project 5: Creating a Dashboard for Data Professionals' Survey Using Power BI**
+For my fifth project, I used data from Alex The Analyst's survey of people working in the data field. This survey collected information on their salaries, locations, career transitions, job roles, and more. I started by cleaning the data to ensure its accuracy and consistency. Then, I created an interactive dashboard using Power BI to visualize the survey results, providing insights into the demographics, career paths, and earnings of data professionals.
+
 Stay tuned for more exciting projects to come!
