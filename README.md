@@ -23,4 +23,7 @@ https://public.tableau.com/app/profile/hannah.pinho/viz/AirbnbBCNProject/Dashboa
 ## **Project 5: Creating a Dashboard for Data Professionals' Survey Using Power BI**
 For my fifth project, I used data from Alex The Analyst's survey of people working in the data field. This survey collected information on their salaries, locations, career transitions, job roles, and more. I started by cleaning the data to ensure its accuracy and consistency. Then, I created an interactive dashboard using Power BI to visualize the survey results, providing insights into the demographics, career paths, and earnings of data professionals.
 
+## **Project 6: Web Scraping Solar Power Data by Country Using Python**
+For my sixth project, I utilized data from a Wikipedia page on solar power by country. Using web scraping techniques with HTML, Beautiful Soup, and Requests, I extracted the relevant data and transformed it into a structured table using Pandas. After processing the data, I created a CSV file to facilitate further analysis. This project showcases my ability to gather and preprocess data from web sources effectively.
+
 Stay tuned for more exciting projects to come!
